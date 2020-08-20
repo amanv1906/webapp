@@ -1,7 +1,7 @@
-tensorflow
 keras  
 numpy
 pandas
 scipy
 nltk
 streamlit
+matplotlib
